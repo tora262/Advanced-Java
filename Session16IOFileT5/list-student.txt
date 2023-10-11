@@ -1,0 +1,2 @@
+Student{id=1, username='Hoang'}
+Student{id=2, username='Nam'}
