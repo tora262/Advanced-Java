@@ -1,3 +1,5 @@
+package ra.sort.basicsort;
+
 public class InsertionSort {
     public static void main(String[] args) {
         int[] arr = {9, 13, 6, 12, 2, 3, 7, 4};

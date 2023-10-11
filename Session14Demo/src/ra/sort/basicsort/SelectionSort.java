@@ -1,3 +1,5 @@
+package ra.sort.basicsort;
+
 public class SelectionSort {
     public static void main(String[] args) {
 
